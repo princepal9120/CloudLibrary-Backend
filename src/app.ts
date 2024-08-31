@@ -7,3 +7,6 @@ app.get('/',(req,res)=>{
 });
 
 export default app;
+
+
+//Global error Handlers
